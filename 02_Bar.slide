@@ -1,0 +1,11 @@
+<section>
+    
+    <com.circuitry.web.chartjs.ChartDelegate 
+        type="bar"
+        title="A1"
+        spreadsheetId="1Q_Dujtaj_NgZbHzt9Koje-tLtPSzY70lv-Z0X1N8sVE" 
+        range="A3:B"
+    />
+
+</section>
+
